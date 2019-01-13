@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Visualizations"
+    url: /visualizations/
+  - title: "Education"
+    url: /education/
+  - title: "Publications"
+    url: https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/
+  - title: "GitHub"
+    url: https://github.com/zhafen/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
