@@ -1,9 +1,11 @@
 # main links
 main:
+  # - title: "Home"
+  #   url: /
   - title: "Visualizations"
     url: /visualizations/
-  - title: "Education"
-    url: /education/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/
   - title: "GitHub"
