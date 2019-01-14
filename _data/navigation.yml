@@ -4,8 +4,8 @@ main:
   #   url: /
   - title: "Visualizations"
     url: /visualizations/
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
   - title: "Publications"
     url: https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/
   - title: "GitHub"
