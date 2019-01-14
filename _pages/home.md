@@ -1,4 +1,5 @@
 ---
+title: Zach Hafen
 layout: splash
 permalink: /
 header:
@@ -11,12 +12,12 @@ excerpt: >
   Astrophysics PhD Candidate
 ---
 
-## My Research
+## About My Research
 
 I explore virtual galaxies and their surroundings, and use my explorations to give insight on how these massive structures form.
 Take a look through my [visualizations](/visualizations/), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
 
-## Me
+## About Me
 
 I am a doctoral candidate at Northwestern University, where I work with [Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
 
