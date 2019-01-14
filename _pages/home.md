@@ -3,36 +3,22 @@ layout: splash
 permalink: /
 header:
   # overlay_color: "#5e616c"
-  overlay_image: /assets/images/galactic-bloom-small.png
+  overlay_image: /assets/images/galactic-bloom-header.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "Explore a 3D version of this image"
+      url: "https://zhafen.github.io/CGM-origins-pathlines/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.14.2">Latest release v4.14.2</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  Astrophysics PhD Candidate
 ---
 
-{% include feature_row %}
+# About
 
+## My Research
+
+I explore virtual galaxies and their surroundings, and use my explorations to give insight on how these massive structures form.
+Take a look through my [visualizations](/visualizations/), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/).
+
+## Me
+
+I am a doctoral candidate at Northwestern University, where I work with [Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
+When I'm not working on research I spend a lot of time [teaching](/teaching/).
