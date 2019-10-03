@@ -10,6 +10,10 @@ gallery:
     image_path: /assets/images/CGM-origins-pathlines-thumb.png
     alt: "The history of circumgalactic gas."
     title: "Interactive visualization of the full history of circumgalactic gas."
+  - url: https://zhafen.github.io/CGM-fates/
+    image_path: /assets/images/cosmic-boom.png
+    alt: "The fates of the circumgalactic medium."
+    title: "Interactive visualization the circumgalactic medium, divided according to fate."
   - url: /assets/images/galactic-bloom.png
     image_path: /assets/images/galactic-bloom-thumb.png
     alt: "Galactic bloom."

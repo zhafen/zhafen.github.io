@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   # overlay_color: "#5e616c"
-  overlay_image: /assets/images/galactic-bloom-header.png
+  overlay_image: /assets/images/galactic-bloom-header-lowres.png
   actions:
     - label: "Explore a 3D version of this image"
       url: "https://zhafen.github.io/CGM-origins-pathlines/"
