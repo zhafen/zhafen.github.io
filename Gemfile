@@ -15,6 +15,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem "activesupport", ">= 5.2.4.3"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
