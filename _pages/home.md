@@ -9,7 +9,7 @@ header:
     - label: "Explore a 3D version of this image"
       url: "https://zhafen.github.io/CGM-origins-pathlines/"
 excerpt: >
-  Astrophysics PhD Candidate
+  Theoretical and Computational Astrophysics
 ---
 
 ## About My Research
@@ -19,8 +19,8 @@ Take a look through my [visualizations](/visualizations/), [publications](https:
 
 ## About Me
 
-I am a doctoral candidate at Northwestern University, where I work with [Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
+I am currently a McCue Fellow at UC Irvine. I received my PhD from Northwestern University, where I worked with [Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
 
-When I'm not working on research I spend a lot of time teaching high school students as a [Reach for the Stars fellow](http://gk12.ciera.northwestern.edu/).
-I am currently working with [the Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/) to create [vault](https://avault.github.io), a place for high school students to answer in-depth questions about the world around them.
+When I'm not working on research I've spent a lot of time teaching high school students as a [Reach for the Stars fellow](http://gk12.ciera.northwestern.edu/).
+For one of my especially interesting projects I worked with [the Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/) to create [vault](https://avault.github.io), a place for high school students to answer in-depth questions about the world around them.
 
