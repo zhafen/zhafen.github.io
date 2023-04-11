@@ -15,7 +15,7 @@ excerpt: >
 ## About Me
 
 I am the McCue Prize Postdoctoral Fellow at UC Irvine, working primarily with [Dean James Bullock](https://sites.uci.edu/bullock/) on the astrophysics of galaxies.
-I am currently exploring opportunities in data science, finance, consulting, software development, or other fields beyond astrophysics.
+I am currently exploring opportunities in data science, finance, consulting, software development, and other fields beyond astrophysics.
 
 Highlights of my work include
 * using natural-language processing to analyze hundreds of thousands of scientific abstracts,
