@@ -10,6 +10,8 @@ main:
   #   url: https://ui.adsabs.harvard.edu/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ
   - title: "GitHub"
     url: https://github.com/zhafen/
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/zachary-hafen/
   - title: "Resume"
     url: https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf
   # - title: "About"
