@@ -12,15 +12,16 @@ excerpt: >
   Theoretical and Computational Astrophysics
 ---
 
-## About My Research
-
-I explore virtual galaxies and their surroundings, and use my explorations to give insight on how these massive structures form.
-Take a look through my [visualizations](/visualizations/), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
-
 ## About Me
 
-I am currently a McCue Fellow at UC Irvine. I received my PhD from Northwestern University, where I worked with [Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
+I am the McCue Prize Postdoctoral Fellow at UC Irvine, working primarily with [Dean James Bullock](https://sites.uci.edu/bullock/).
+I am currently looking to move from computational and theoretical astrophysics and into data science, finance, consulting, and/or software development.
+Highlights of my work include
+using natural-language processing to analyze hundreds of thousands of scientific abstracts,
+leading an interdisciplinary, international collaboration to test the robustness of statistical methodology, and
+processing tens of TB of (3+N)-dimensional data using HPC resources.
+Take a look through my [visualizations](/visualizations/), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
 
-When I'm not working on research I've spent a lot of time teaching high school students as a [Reach for the Stars fellow](http://gk12.ciera.northwestern.edu/).
-For one of my especially interesting projects I worked with [the Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/) to create [vault](https://avault.github.io), a place for high school students to answer in-depth questions about the world around them.
+I received my PhD from Northwestern University, where I worked with [Prof. Claude-André Faucher-Giguère](http://galaxies.northwestern.edu) as a member of the [FIRE project](https://http://fire.northwestern.edu/).
+I have also spent a lot of time teaching high school students as a [Reach for the Stars fellow](http://gk12.ciera.northwestern.edu/)This includes working with [the Northwestern Academy for Chicago Public Schools](https://www.academy.northwestern.edu/) to create [vault](https://avault.github.io), a data-science-education community for high-school students.
 
