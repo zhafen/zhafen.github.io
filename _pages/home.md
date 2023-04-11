@@ -1,5 +1,5 @@
 ---
-title: Zach Hafen
+title: Zachary Hafen-Saavedra
 layout: splash
 permalink: /
 header:
