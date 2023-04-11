@@ -6,12 +6,12 @@ main:
     url: /visualizations/
   # - title: "Teaching"
   #   url: /teaching/
-  - title: "Publications"
-    url: https://ui.adsabs.harvard.edu/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ
+  # - title: "Publications"
+  #   url: https://ui.adsabs.harvard.edu/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ
   - title: "GitHub"
     url: https://github.com/zhafen/
   - title: "Resume"
-    url: https://zhafen.github.io/assets/Zachary_HafenSaavedra.pdf
+    url: https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

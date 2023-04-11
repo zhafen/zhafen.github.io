@@ -1,5 +1,5 @@
 ---
-title: Zachary Hafen-Saavedra
+title: Zach H-S
 layout: splash
 permalink: /
 header:
@@ -22,4 +22,4 @@ Highlights of my work include
 * leading an interdisciplinary, international collaboration to test the robustness of statistical methodology, and
 * processing tens of TB of (3+N)-dimensional data using HPC resources.
 
-Take a look through my [visualizations](/visualizations/), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
+Take a look through my [visualizations](/visualizations/), resume[https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf] [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
