@@ -15,12 +15,15 @@ excerpt: >
 
 ## About Me
 
-I am the McCue Prize Postdoctoral Fellow at UC Irvine, working primarily with [Dean James Bullock](https://sites.uci.edu/bullock/) on the astrophysics of galaxies.
-I am currently exploring opportunities in data science, finance, consulting, software development, and other fields beyond astrophysics.
+As the McCue Prize Postdoctoral Fellow at UC Irvine, I study the astrophysics of galaxies with [Dean James Bullock](https://sites.uci.edu/bullock/).
+I am now actively seeking opportunities in the fields of data science, finance, consulting, and software development.
+My proven track record of
+analyzing complex data sets and building high-performing analysis pipelines in cloud environments,
+combined with my exceptional skills in science communication and experience in leading interdisciplinary and international collaborations,
+makes me a valuable asset to any team.
+Some relevant aspects of my work as an astrophysicist include:
+* using natural-language processing to analyze hundreds of thousands of scientific abstracts
+* processing tens of TBs of 20+ dimensional data for numerous analysis projects
+* leading an interdisciplinary, international collaboration to test the robustness of statistical methodology
 
-Highlights of my work include
-* using natural-language processing to analyze hundreds of thousands of scientific abstracts,
-* leading an interdisciplinary, international collaboration to test the robustness of statistical methodology, and
-* processing tens of TB of (3+N)-dimensional data using HPC resources.
-
-Take a look through my [visualizations](/visualizations/), [resume](https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question](mailto:zachary.h.hafen@gmail.com).
+Take a look through my [visualizations](/visualizations/), [resume](https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question or would like to chat](mailto:zachary.h.hafen@gmail.com).
