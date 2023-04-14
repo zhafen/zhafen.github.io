@@ -9,7 +9,7 @@ header:
     - label: "Explore a 3D version of this image"
       url: "https://zhafen.github.io/CGM-origins-pathlines/"
 excerpt: >
-  Theoretical and Computational
+  Theoretical and Computational  
   Astrophysics
 ---
 
