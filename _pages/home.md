@@ -26,4 +26,8 @@ Some relevant aspects of my work as an astrophysicist include:
 * processing tens of TBs of 20+ dimensional data for numerous analysis projects
 * leading an interdisciplinary, international collaboration to test the robustness of statistical methodology
 
-Take a look through my [visualizations](/visualizations/), [resume](https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf), [publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or [code](https://github.com/zhafen/), or [email me if you have a question or would like to chat](mailto:zachary.h.hafen@gmail.com).
+Take a look through my [visualizations](/visualizations/),
+[resume](https://zhafen.github.io/assets/ZacharyHafenSaavedra.pdf),
+[publications](https://ui.adsabs.harvard.edu/\#/public-libraries/fyuwUPLzSAihgQ4PDhtDdQ/), or
+[code](https://github.com/zhafen/),
+or [email me if you have a question or would like to chat](mailto:zachary.h.hafen@gmail.com).
