@@ -4,6 +4,8 @@ main:
   #   url: /
   - title: "Visualizations"
     url: /visualizations/
+  - title: "Work Sample"
+    url: https://zhafen.github.io/work-sample/
   # - title: "Teaching"
   #   url: /teaching/
   # - title: "Publications"
