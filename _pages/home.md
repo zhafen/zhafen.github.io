@@ -13,9 +13,7 @@ excerpt: >
 ---
 
 ## About Me
-Leader and data scientist with over 12 years of experience leading solution development for complex
-problems, including 12 years of Python experience, 10 years analyzing large relational datasets, and 5
-years of natural language processing experience.
+Leader and data scientist with over 12 years of experience leading solution development for complex problems, including 12 years of Python experience, 10 years analyzing large relational datasets, and 5 years of natural language processing experience.
 Led the migration of two teams to cloud-based solutions.
 
 Take a look through my [visualizations](/visualizations/),
